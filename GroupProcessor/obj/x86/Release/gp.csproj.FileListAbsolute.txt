@@ -1,0 +1,16 @@
+d:\CloudStation\VS Projects\GP\GroupProcessor\bin\Release\GroupProcessor.exe
+d:\CloudStation\VS Projects\GP\GroupProcessor\bin\Release\GroupProcessor.pdb
+d:\CloudStation\VS Projects\GP\GroupProcessor\bin\Release\cs\GroupProcessor.resources.dll
+d:\CloudStation\VS Projects\GP\GroupProcessor\obj\x86\Release\gp.csproj.AssemblyReference.cache
+d:\CloudStation\VS Projects\GP\GroupProcessor\obj\x86\Release\GroupProcessor.GP_Form.resources
+d:\CloudStation\VS Projects\GP\GroupProcessor\obj\x86\Release\GroupProcessor.Locales.resources
+d:\CloudStation\VS Projects\GP\GroupProcessor\obj\x86\Release\GroupProcessor.Properties.Resources.resources
+d:\CloudStation\VS Projects\GP\GroupProcessor\obj\x86\Release\GroupProcessor.Setup.resources
+d:\CloudStation\VS Projects\GP\GroupProcessor\obj\x86\Release\GroupProcessor.GP_Form.cs.resources
+d:\CloudStation\VS Projects\GP\GroupProcessor\obj\x86\Release\GroupProcessor.Locales.cs.resources
+d:\CloudStation\VS Projects\GP\GroupProcessor\obj\x86\Release\GroupProcessor.Setup.cs.resources
+d:\CloudStation\VS Projects\GP\GroupProcessor\obj\x86\Release\gp.csproj.GenerateResource.cache
+d:\CloudStation\VS Projects\GP\GroupProcessor\obj\x86\Release\gp.csproj.CoreCompileInputs.cache
+d:\CloudStation\VS Projects\GP\GroupProcessor\obj\x86\Release\cs\GroupProcessor.resources.dll
+d:\CloudStation\VS Projects\GP\GroupProcessor\obj\x86\Release\GroupProcessor.exe
+d:\CloudStation\VS Projects\GP\GroupProcessor\obj\x86\Release\GroupProcessor.pdb
